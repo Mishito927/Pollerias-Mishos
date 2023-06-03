@@ -1,0 +1,13 @@
+*********************************
+IMPORTANTE LEER
+*********************************
+
+La aplicación está hecho con java, por lo que necesitará descargar java en su pagina local: 
+
+INSTALAR JAVA: https://www.java.com/es/download/ie_manual.jsp
+
+OJO:
+Si la aplicación no abre, debes instalar Xampp, el gestor de base de datos local para que todo lo que se registre dentro de la aplicación se almacene en la nube.
+instalador (DESCARGAR LA ULTIMA VERSION  PARA WINDOWS)
+
+INSTALAR XAMPP: https://www.apachefriends.org/es/index.html
